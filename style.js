@@ -18,7 +18,7 @@ function myClock(){
     }
 
     else{
-        hour1=12;
+        hour1=hour;
     }
     
     // Assigning Names To Months
